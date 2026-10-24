@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<form method="post">
+    {% csrf_token %}
+    {{ user_form.as_p }}
+    {{ profile_form.as_p }}
+    <button type="submit">Register</button>
+</form>
+</html>
