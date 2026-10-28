@@ -1,4 +1,4 @@
-Yes, the answer provided above is correct and structured for inclusion in your manual. However, I will now refine and structure it properly for **Experiment 14: Student Management System using Django**, ensuring clarity and completeness for your manual.  
+ the answer provided above is correct and structured for inclusion in your manual. However, I will now refine and structure it properly for **Experiment 14: Student Management System using Django**, ensuring clarity and completeness for your manual.  
 
 ---
 
